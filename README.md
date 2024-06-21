@@ -28,5 +28,8 @@ going to list the files I can't take credit for as well since it was given for t
 
 Reminders and Notices for me
 <ul>
-    <li>nothing at the  moment</li>
+    <li>Postman wont let me sign in go back to this</li>
+
 </ul>
+
+[postman section](https://youtu.be/qwfE7fSVaZM?si=gi7tb-sxyb5QdC--&t=12461)
